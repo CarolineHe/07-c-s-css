@@ -1,0 +1,56 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+   body {
+       padding-top: 50px;
+       padding-bottom: 20px;
+   }
+
+.navbar-header {
+    position:absolute;
+}
+
+button {
+    margin:5px;
+}
+
+h2 {
+    font-size:2em;
+    background-color: rgb(10, 161, 194);
+    color: white;
+    border: solid 2px grey;
+    border-radius:10px;
+    padding:10px;
+}
+
+ul {
+    list-style: none;
+}
+
+.box_center{
+    margin-left: 100px;
+}
+
+h3 {
+    font-size: 1em;
+    padding-left: 40px;
+    }
+
+.container-bottom {
+background-color: rgba(10, 161, 194, 0.33);
+}
+
+#other {
+    padding-top: 5px;
+}
+
+.row-back {
+    border: solid 1px grey;
+    background-color: rgba(10, 161, 194, 0.33);
+}
+
+.top {
+    float:right;
+}
